@@ -1,3 +1,7 @@
-fonts used
+FONTS USED
 In navbar - Alatsi 
 In other sections - Londrina Solid
+
+
+COLORS USED
+IN events Card : 000F96
