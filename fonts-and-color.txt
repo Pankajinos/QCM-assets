@@ -4,6 +4,9 @@ In other sections - Londrina Solid
 
 
 COLORS USED
-IN events Card : 000F96
-IN quiz Interface > IN option boxes : 4F8FCB
+IN events Card : 000F96 (Blue)
+IN quiz Interface > IN option boxes : 4F8FCB (Light blue)
+                                    : 504F83 (Purple)
+                                    : F17BEC (Pink)
+                                    : DBFF00 (Green)
                   
